@@ -1,10 +1,9 @@
-Đây là chương trình tính chu vi và diện tích hình tròn.
-######################################################
-Hãy chạy file Tinh-chu-vi-dien-tich-hinh-tron.bat để khởi động chương trình.
-Sau đó nhập vào giá trị bán kính.
-Số đầu tiên là chu vi, số thứ 2 là diện tích.
-
-
+Chào mừng bạn đã đến với chương trình tính chu vi và diện tích tam giác của tôi
+###############################################################################
+Cách sử dụng:
+b1:Hãy khởi động chương trình Tinh-chu-vi-dien-tich-tam-giac.bat.
+b2:lần lượt nhập các cạnh của 1 tam giác.
+b3:số xuất hiện phía trên là chu vi, dưới là diện tích
  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
   MMm/-/NMMd:-oNMMMMMMMMh+:::omMMMMMMMMh:-oMMMy--yMM
   MMMm: .hMMd- :mMMMMMMMNMNd+ `yMMMMMNo `sMMN/ .yMMM
@@ -15,4 +14,4 @@ Số đầu tiên là chu vi, số thứ 2 là diện tích.
   MMMMMMMMMMm+----/dMMd. :mNs``oNMNo----:hMMMMMMMMMM
   MMMMMMMMMMMMNNNNMMMo``sNMMMd- :mMMNNNNMMMMMMMMMMMM
   MMMMMMMMMMMMMMdyyo- -dMMMMMMN+ `+yyyMMMMMMMMMMMMMM
-  MMMMMMMMMMMMMMMdysydMMMMMMMMMMNhsyhNMMMMMMMMMMMMMM  
+  MMMMMMMMMMMMMMMdysydMMMMMMMMMMNhsyhNMMMMMMMMMMMMMM
